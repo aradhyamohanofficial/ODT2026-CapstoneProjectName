@@ -1,31 +1,11 @@
 **Project Title**
 
-[Enter your project name here]
+Infernotron 
 
 **📌 Project Overview**
 
-[Provide a short description of your project]
-
-
-**📂 Repository Structure**
-1. Electronics Details
-2. Mechanical Details
-3. Software Details
-4. Project Documents
-5. Media
-
-**⚙️ How to Navigate This Repository**
-
-Electronics Details → Circuit, components justification
-
-Mechanical Details → Sketches, CAD, and fabrication
-
-Software Details → Code, logic, and implementation
-
-Project Documents → Design thinking, planning, testing
-
-Media → Weekly progress and final output
+This project is a mobile, app-controlled robotic rover designed to combine user control with environmental sensing and responsive feedback. The system allows the user to navigate the rover while detecting nearby objects using an IR sensor. Upon detection, the system provides real-time feedback through the app, LEDs, and a buzzer, and enables the user to trigger an action response. The project demonstrates the integration of movement, sensing, and interactive control within a single system.
 
 
 **👥 Team Members**
-[Name]
+Aradhya Mohan and Ojaswi Bajpai
